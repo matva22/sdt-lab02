@@ -6,4 +6,5 @@ int main() {
 	2 * 2;
 	__cpp_delegating_constructors
     return 0;
+a+b;
 }
