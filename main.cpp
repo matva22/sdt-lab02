@@ -1,5 +1,9 @@
- #include <iostream>
+#include <iostream>
 
- using namespace std;
-
- int main() 6 { 7 	int a, b; 8 	cout << "A + B = " << a + b << '\n';
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+	
+	2 * 2;
+	__cpp_delegating_constructors
+    return 0;
+}
