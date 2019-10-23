@@ -5,5 +5,7 @@ int main() {
 	
 	2 * 2;
 	__cpp_delegating_constructors
+		pechatraznosti
     return 0;
+675fg
 }
